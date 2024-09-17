@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Exercicio16 {
 
     public static void main(String[] args) {
-         // INSTANTIATE
+        // INSTANTIATE
         Scanner sc = new Scanner(System.in);
 	
 	
@@ -51,11 +51,6 @@ public class Exercicio16 {
             default: 
                  System.out.println(a / b);
         }
-
-               
-       
-        
-        
-  
+	
     }
 }
