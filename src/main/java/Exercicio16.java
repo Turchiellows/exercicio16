@@ -1,4 +1,4 @@
-package com.mycompany.exercicio16;
+
 import java.util.Scanner;
 
 public class Exercicio16 {
